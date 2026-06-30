@@ -16,6 +16,7 @@ This project analyzes a Music Store database using MySQL. The analysis answers b
 ## 📂 Dataset
 
 This project uses the **Music Store sample database** for SQL analysis. The dataset is publicly available and is commonly used for practicing SQL queries and data analysis.
+
 ---
 
 ## 📊 SQL Concepts Used
